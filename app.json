@@ -1,0 +1,49 @@
+{
+  "name": "FUCK!!!",
+  "description": "No motherfucker this is not for this",
+  "logo": "https://telegra.ph/file/4e1364fb18f899ad47dec.png",
+  "keywords": [
+    "telegram",
+    "FUCKED",
+    "plugin",
+    "telegram-Fuck",
+    "sexuality"
+  ],
+  "repository": "https://github.com/inukaasith/vcpb-zeet-deploy",
+  "website": "starkgang.ml",
+  "success_url": "t.me/FridayOT",
+  "stack": "container",
+  "env": {
+    "API_ID": {
+      "description": "Fuck",
+      "value": "",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Dont get fucked",
+      "value": ""
+    },
+    "TOKEN": {
+      "description": "fuuuckkkk",
+      "value": ""
+    },    
+    "SUDO_USERS": {
+      "description": "Motherfucker",
+      "value": ""
+    },
+    "GROUP": {
+      "description": "OK Fuck then",
+      "value": ""
+    },
+    "USERS_MUST_JOIN": {
+      "description": "Yaas we fuck here",
+      "value": ""
+    },
+    "DUR_LIMIT": {
+      "description": "Again Fuck in here",
+      "value": "",
+      "required": false
+    }
+
+
+}
