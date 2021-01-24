@@ -1,5 +1,10 @@
 ## Modified version of  RattyDAVE's original repo to deploy [VCPB](https://github.com/rojserbest/VCPB) on [Zeet](https://zeet.co/)
 
+
+# Not for Heroku.. Don't fuck yourselves
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InukaAsith/Daisy-2.0.git)
+
+
 ## Env
 * You will need to set the following environment variables for a successful build.
 
